@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rillwan-Tech/static/css/main.14b272b8.css",
+    "main.js": "/Rillwan-Tech/static/js/main.abac651c.js",
+    "static/media/banner.png": "/Rillwan-Tech/static/media/banner.0f45b31c55421e38edd3.png",
+    "static/media/about.png": "/Rillwan-Tech/static/media/about.91738fd8d4ac2bff55f6.png",
+    "index.html": "/Rillwan-Tech/index.html",
+    "main.14b272b8.css.map": "/Rillwan-Tech/static/css/main.14b272b8.css.map",
+    "main.abac651c.js.map": "/Rillwan-Tech/static/js/main.abac651c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b272b8.css",
+    "static/js/main.abac651c.js"
+  ]
+}
